@@ -1,0 +1,13 @@
+einops==0.8.1
+kmeans_gpu==0.0.5
+matplotlib==3.5.3
+MedPy==0.5.2
+monai==1.4.0
+natsort==8.3.1
+numpy==2.3.0
+pystrum==0.3
+scikit_image==0.19.3
+scipy==1.15.3
+timm==0.9.2
+torch==1.13.1
+torchvision==0.14.1
