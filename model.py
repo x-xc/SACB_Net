@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import numpy as np
 from torch.distributions.normal import Normal
 from nn_util import get_act_layer, conv, unfoldNd
-from SACB2 import SACB,  cross_Sim
+from SACB1 import SACB,  cross_Sim
 import utils
 def tuple_(x, length = 1):
     return x if isinstance(x, tuple) else ((x,) * length)
