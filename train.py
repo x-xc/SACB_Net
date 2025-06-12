@@ -47,7 +47,7 @@ def main():
     g = torch.Generator()
     g.manual_seed(0)
     setup_seed(seed=0, cuda_deterministic=False)
-    k = 9 
+    k = 7 
     dataset=['ixi', 'lpba', 'abd'][2]
     tag = f'{dataset}_k{k}'
     bs = 1
