@@ -9,7 +9,8 @@ conda activate myenv
 pip install -r requirements.txt
 ```
 ## Dataset
-Thanks [@Junyu](https://github.com/junyuchen245) for [the preprocessed IXI data]
+Thanks [@Junyu](https://github.com/junyuchen245) for [the preprocessed IXI data].
+
 [Abdomen CT-CT](https://learn2reg.grand-challenge.org/Datasets/)
 [LPBA](https://loni.usc.edu/research/atlases)
 
